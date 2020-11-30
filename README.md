@@ -10,9 +10,9 @@ IEC62304 compliance for wearable devices, Impact analysis, Hazard analysis and U
 Working projects on Angular.
 
 ### 📢 Find me elsewhere
-<p align="center">
+<p align="leftr">
   <a href="https://www.linkedin.com/in/ashutosh-mishra-714a52b2/">
-    <img src="" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/99002508/99002508/d53e13553486f926971de5fe8a1f74c02e1f9953/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
