@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋😄
+Here you'll find a sample of the projects I've done. You can also browse all the projects and we can collaborate. 
 
 ### 🔭 I’m currently working on 
 LIVMOR Wearable System for Remote Patient Monitoring (RPM).
@@ -14,6 +15,8 @@ Working projects on Angular.
   <a href="https://www.linkedin.com/in/ashutosh-mishra-714a52b2/">
     <img src="https://raw.githubusercontent.com/99002508/99002508/d53e13553486f926971de5fe8a1f74c02e1f9953/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
+  
+  
 </p>
 
 
