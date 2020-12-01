@@ -17,9 +17,12 @@ Working projects on Angular.
   </a>
 </p>
 
+### 📫 My profile views
+![Ashutosh github view counter](https://komarev.com/ghpvc/?username=99002508&label=Profile+Views)
+
 ### ⚡ My git status
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=99002508&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99002508&layout=compact)
+![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=99002508&layout=compact)
 
 
 
