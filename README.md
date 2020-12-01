@@ -1,5 +1,5 @@
 ### Hi there 👋😄
-Here you'll find a sample of the projects I've done. You can also browse all the projects and we can collaborate. 
+Here you'll find a sample of the projects I've done. You can also browse all the projects, and we can collaborate. 
 
 ### 🔭 I’m currently working on 
 LIVMOR Wearable System for Remote Patient Monitoring (RPM).
