@@ -15,9 +15,12 @@ Working projects on Angular.
   <a href="https://www.linkedin.com/in/ashutosh-mishra-714a52b2/">
     <img src="https://raw.githubusercontent.com/99002508/99002508/d53e13553486f926971de5fe8a1f74c02e1f9953/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
-  
-  
 </p>
+
+### ⚡ My git status
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=99002508&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99002508&layout=compact)
+
 
 
 <!--
@@ -33,4 +36,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![GitHub repo size](https://img.shields.io/github/repo-size/99002508/DingDing?tab=repositories?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/USER/REPOSITORY?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/USER/REPOSITORY?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/USER/REPOSITORY?color=red&style=plastic)
 -->
