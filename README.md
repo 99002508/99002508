@@ -2,7 +2,7 @@
 Here you'll find a sample of the projects I've done. You can also browse all the projects, and we can collaborate. 
 
 ### 🔭 I’m currently working on 
-LIVMOR Wearable System for Remote Patient Monitoring (RPM).
+Application development & Bug fixing for GE HEALTHCARE.
 
 ### 🌱 I’m currently learning
 IEC62304 compliance for wearable devices, Impact analysis, Hazard analysis and Usability risk assesment of a software projects.
