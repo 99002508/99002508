@@ -2,11 +2,12 @@
 Here you'll find a sample of the projects I've done. You can also browse all the projects, and we can collaborate. 
 
 ### 🔭 I’m currently working on 
-Application development & Bug fixing for GE HEALTHCARE.
+Application development and bug fixing for Aisys CS2 system GE health care.
 
 ### 🌱 I’m currently learning
-~IEC62304 compliance for wearable devices, Impact analysis, Hazard analysis and Usability risk assesment of a software projects.~
-Application development and bug fixing for Aisys CS2 system.
+<!-- IEC62304 compliance for wearable devices, Impact analysis, Hazard analysis and Usability risk assesment of a software projects. -->
+Advanced C++, Linux and STL.
+
 
 ###  👯 I’m looking to collaborate on
 Working projects on Angular.
