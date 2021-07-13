@@ -6,7 +6,7 @@ Application development and bug fixing for Aisys CS2 system GE health care.
 
 ### 🌱 I’m currently learning
 <!-- IEC62304 compliance for wearable devices, Impact analysis, Hazard analysis and Usability risk assesment of a software projects. -->
-Advanced C++, Linux and STL.
+Advanced C++, QT/QML, Linux and STL.
 
 
 ###  👯 I’m looking to collaborate on
